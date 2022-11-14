@@ -1,0 +1,21 @@
+{
+  "name": "grey-and-black-theme",
+  "displayName": "grey and black theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "grey and black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/grey and black-color-theme.json"
+      }
+    ]
+  }
+}
